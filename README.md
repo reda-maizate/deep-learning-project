@@ -6,4 +6,3 @@ Deep Learning project - 4 IABD 1
 - MLP (Réda M.)
 - CNN (Reda B.)
 - ResNet (Mamadou-dian D. / Reda B.)
-- RNN (Réda M.)
